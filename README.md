@@ -1,2 +1,2 @@
 # Data Science APIs
-*Data Scuebce APIs List*
+*Data Science APIs List*
