@@ -4,3 +4,4 @@
 2. [Spawner](https://www.spawner.ai/)
 3. [Spotify API](https://developer.spotify.com/documentation/web-api/)
 4. [RapidMiner API](https://docs.rapidminer.com/latest/hub/rest-api/)
+5. [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
