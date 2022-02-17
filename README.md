@@ -1,7 +1,8 @@
 # Data Science APIs
 *Data Science APIs List*
 1. [Scala](https://www.scala-lang.org/api/current/)
-2. [Twitter](https://developer.twitter.com/en/docs/twitter-api)
+2. [GitHub](https://docs.github.com/en/rest)
+3. [Twitter](https://developer.twitter.com/en/docs/twitter-api)
 3. [FastAPI](https://fastapi.tiangolo.com/)
 4. [Spawner](https://www.spawner.ai/)
 5. [Spotify API](https://developer.spotify.com/documentation/web-api/)
