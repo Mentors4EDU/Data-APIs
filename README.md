@@ -1,5 +1,5 @@
 # Data Science APIs
-*Data Science APIs List*
+*A Data Science APIs List*
 1. [Scala](https://www.scala-lang.org/api/current/)
 2. [GitHub](https://docs.github.com/en/rest)
 3. [Twitter](https://developer.twitter.com/en/docs/twitter-api)
