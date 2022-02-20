@@ -13,4 +13,5 @@
 11. [TheSportsDB](https://www.thesportsdb.com/api.php)
 12. [RapidMiner API](https://docs.rapidminer.com/latest/hub/rest-api/)
 13. [Qlik Sense APIs](https://www.qlik.com/us/-/media/files/resource-library/global-us/direct/datasheets/ds-qlik-sense-apis-en.pdf)
-14. [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
+14. [PuppetForge API](https://forgeapi.puppet.com/)
+15. [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
