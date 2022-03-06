@@ -20,3 +20,4 @@
 19. [Qlik Sense APIs](https://www.qlik.com/us/-/media/files/resource-library/global-us/direct/datasheets/ds-qlik-sense-apis-en.pdf)
 20. [PuppetForge API](https://forgeapi.puppet.com/)
 21. [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
+22. [DuckDuckGo Instant Answer](https://duckduckgo.com/api)
