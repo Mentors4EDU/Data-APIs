@@ -7,6 +7,7 @@
 5. [FastAPI](https://fastapi.tiangolo.com/)
 6. [npm-api](https://www.npmjs.com/package/npm-api)
 7. [Spawner](https://www.spawner.ai/)
+8. [quora-API](https://www.npmjs.com/package/quora-api)
 9. [Spotify API](https://developer.spotify.com/documentation/web-api/)
 10. [Ansible API](https://docs.ansible.com/ansible/latest/api/index.html)
 11. [Tableau API](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm)
