@@ -23,4 +23,5 @@
 21. [Darwin Core API](https://github.com/gbif/dwc-api)
 22. [PuppetForge API](https://forgeapi.puppet.com/)
 23. [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
-24. [DuckDuckGo Instant Answer](https://duckduckgo.com/api)
+24. [Internet Archive APIs](https://archive.org/services/docs/api/)
+25. [DuckDuckGo Instant Answer](https://duckduckgo.com/api)
