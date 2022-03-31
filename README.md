@@ -28,4 +28,5 @@
 26. [PuppetForge API](https://forgeapi.puppet.com/)
 27. [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
 28. [Internet Archive APIs](https://archive.org/services/docs/api/)
-29. [DuckDuckGo Instant Answer](https://duckduckgo.com/api)
+29. [Earthquake Data API](https://holypython.com/api-6-earthquake-data/)
+30. [DuckDuckGo Instant Answer](https://duckduckgo.com/api)
