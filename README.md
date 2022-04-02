@@ -3,6 +3,7 @@
 1. [eBay](https://developer.ebay.com/docs)
 2. [Scala](https://www.scala-lang.org/api/current/)
 3. [Pexels](https://www.pexels.com/api/)
+3. [Kaggle](https://www.kaggle.com/docs/api)
 4. [Twitter](https://developer.twitter.com/en/docs/twitter-api)
 5. [GitHub](https://docs.github.com/en/rest)
 6. [FastAPI](https://fastapi.tiangolo.com/)
