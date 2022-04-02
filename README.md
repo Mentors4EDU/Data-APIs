@@ -6,9 +6,8 @@
 4. [Kaggle](https://www.kaggle.com/docs/api)
 5. [Twitter](https://developer.twitter.com/en/docs/twitter-api)
 6. [GitHub](https://docs.github.com/en/rest)
-6
 7. [FastAPI](https://fastapi.tiangolo.com/)
-7. [npm-api](https://www.npmjs.com/package/npm-api)
+8. [npm-api](https://www.npmjs.com/package/npm-api)
 8. [Spawner](https://www.spawner.ai/)
 9. [quora-API](https://www.npmjs.com/package/quora-api)
 10. [Escrow API](https://www.escrow.com/api)
